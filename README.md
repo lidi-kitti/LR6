@@ -14,3 +14,6 @@
 Удалила ветку
 ![img_5.png](img_5.png)
 ![img_3.png](img_3.png)
+
+Откат изменений
+![img_6.png](img_6.png)
